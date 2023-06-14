@@ -31,7 +31,8 @@ Forum historyków
 •	Visual Studio Code
 
 
-#### W celu uruchomienia aplikacja należy utworzyć bazę danych pod nazwą „forum”, a następnie wykonać poniższe polecenia w terminalu
+
+### W celu uruchomienia aplikacja należy utworzyć bazę danych pod nazwą „forum”, a następnie wykonać poniższe polecenia w terminalu
 
 •	composer install --no –interaction
 
