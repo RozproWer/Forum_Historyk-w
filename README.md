@@ -9,26 +9,39 @@
 
 ## Temat projektu
 
+Forum historyków
+
 ## Opis techniczny projektu
 ### Technologie
 
 •	Laravel Framework 8.83.16
+
 •	PHP 8.0.12
+
 •	HTML 5
+
 •	MySQL
 
 ## Wymagania sprzętowe
 
 •	XAMP 8.1.6
+
 •	Composer 2.2.13
+
 •	Visual Studio Code
+
 
 #### W celu uruchomienia aplikacja należy utworzyć bazę danych pod nazwą „forum”, a następnie wykonać poniższe polecenia w terminalu
 
 •	composer install --no –interaction
+
 •	npm install
+
 •	npm run prod
+
 •	php artisan migrate
+
 •	php artisan db:seed
+
 •	php artisan serve
 
